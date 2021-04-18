@@ -1,4 +1,4 @@
-language: python
+language: pytho
 node_js:
  - "python"
 env:
